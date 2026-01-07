@@ -1,0 +1,454 @@
+{
+  "appName": "Flipper DuckyMaker",
+  "@appName": {
+    "description": "App name"
+  },
+  "usbIdChanger": "USB ID Changer",
+  "@usbIdChanger": {
+    "description": "USB ID Changer section title"
+  },
+  "systemRequest": "System Request (SYSRQ)",
+  "@systemRequest": {
+    "description": "System Request section title"
+  },
+  "altNumpadString": "Alt+Numpad String (ALTCODE)",
+  "@altNumpadString": {
+    "description": "Alt+Numpad String section title"
+  },
+  "stringWithNewline": "String with Newline (STRINGLN)",
+  "@stringWithNewline": {
+    "description": "String with Newline section title"
+  },
+  "holdReleaseKey": "Hold/Release Key (HOLD/RELEASE)",
+  "@holdReleaseKey": {
+    "description": "Hold/Release Key section title"
+  },
+  "changeId": "Change ID (VID/PID)",
+  "@changeId": {
+    "description": "Change ID section title"
+  },
+  "vendorId": "Vendor ID",
+  "@vendorId": {
+    "description": "Vendor ID label"
+  },
+  "productId": "Product ID",
+  "@productId": {
+    "description": "Product ID label"
+  },
+  "vendorProduct": "VENDOR:PRODUCT",
+  "@vendorProduct": {
+    "description": "Vendor:Product format"
+  },
+  "vendor": "Vendor",
+  "@vendor": {
+    "description": "Vendor label"
+  },
+  "product": "Product",
+  "@product": {
+    "description": "Product label"
+  },
+  "remark": "Remark (REM)",
+  "@remark": {
+    "description": "Remark section title"
+  },
+  "string": "String (STRING)",
+  "@string": {
+    "description": "String section title"
+  },
+  "delays": "Delays",
+  "@delays": {
+    "description": "Delays section title"
+  },
+  "miscCommands": "Misc. Commands",
+  "@miscCommands": {
+    "description": "Misc Commands section title"
+  },
+  "modifierKeys": "Modifier Keys",
+  "@modifierKeys": {
+    "description": "Modifier Keys section title"
+  },
+  "comboKeys": "Combo Keys",
+  "@comboKeys": {
+    "description": "Combo Keys section title"
+  },
+  "arrowKeys": "Arrow Keys / Cursor",
+  "@arrowKeys": {
+    "description": "Arrow Keys section title"
+  },
+  "mainControlKeys": "Main Control Keys",
+  "@mainControlKeys": {
+    "description": "Main Control Keys section title"
+  },
+  "othersControlKeys": "Others Control Keys",
+  "@othersControlKeys": {
+    "description": "Others Control Keys section title"
+  },
+  "functionKeys": "Function Keys",
+  "@functionKeys": {
+    "description": "Function Keys section title"
+  },
+  "output": "Output",
+  "@output": {
+    "description": "Output section title"
+  },
+  "outputDescription": "Your badUSB payload will be here. At the end of the process, click \"Save\", and the download will automatically start. You can also edit manually the script before download.",
+  "@outputDescription": {
+    "description": "Output section description"
+  },
+  "saveAs": "Save As...",
+  "@saveAs": {
+    "description": "Save As button text"
+  },
+  "payloadPlaceholder": "Here your Payload...",
+  "@payloadPlaceholder": {
+    "description": "Payload textarea placeholder"
+  },
+  "payloadSaved": "Payload saved successfully!",
+  "@payloadSaved": {
+    "description": "Payload saved message"
+  },
+  "copy": "Copy",
+  "@copy": {
+    "description": "Copy button text"
+  },
+  "writeRemark": "Write Remark",
+  "@writeRemark": {
+    "description": "Write Remark button text"
+  },
+  "writeString": "Write String",
+  "@writeString": {
+    "description": "Write String button text"
+  },
+  "writeAltcode": "Write Altcode",
+  "@writeAltcode": {
+    "description": "Write Altcode button text"
+  },
+  "writeStringLn": "Write StringLN",
+  "@writeStringLn": {
+    "description": "Write StringLN button text"
+  },
+  "delay": "DELAY",
+  "@delay": {
+    "description": "Delay button text"
+  },
+  "defaultDelay": "DEFAULT DELAY",
+  "@defaultDelay": {
+    "description": "Default Delay button text"
+  },
+  "buttonPress": "BUTTON_PRESS",
+  "@buttonPress": {
+    "description": "Button Press button text"
+  },
+  "repeat": "REPEAT",
+  "@repeat": {
+    "description": "Repeat button text"
+  },
+  "altchar": "ALTCHAR",
+  "@altchar": {
+    "description": "Altchar button text"
+  },
+  "codePlaceholder": "Code",
+  "@codePlaceholder": {
+    "description": "Code input placeholder"
+  },
+  "sysrq": "SysRq (Linux ONLY)",
+  "@sysrq": {
+    "description": "SysRq button text"
+  },
+  "holdRelease": "HOLD/RELEASE",
+  "@holdRelease": {
+    "description": "Hold/Release button text"
+  },
+  "printscreen": "PRINT SCREEN",
+  "@printscreen": {
+    "description": "Print Screen button text"
+  },
+  "esc": "ESC",
+  "@esc": {
+    "description": "ESC button text"
+  },
+  "pageUp": "PAGE UP",
+  "@pageUp": {
+    "description": "Page Up button text"
+  },
+  "pageDown": "PAGE DOWN",
+  "@pageDown": {
+    "description": "Page Down button text"
+  },
+  "numLock": "NUM LOCK",
+  "@numLock": {
+    "description": "Num Lock button text"
+  },
+  "scrollLock": "SCROLL LOCK",
+  "@scrollLock": {
+    "description": "Scroll Lock button text"
+  },
+  "home": "HOME",
+  "@home": {
+    "description": "Home button text"
+  },
+  "end": "END",
+  "@end": {
+    "description": "End button text"
+  },
+  "insert": "INSERT",
+  "@insert": {
+    "description": "Insert button text"
+  },
+  "app": "APP",
+  "@app": {
+    "description": "App button text"
+  },
+  "breakKey": "BREAK",
+  "@breakKey": {
+    "description": "Break button text"
+  },
+  "pause": "PAUSE",
+  "@pause": {
+    "description": "Pause button text"
+  },
+  "menu": "MENU",
+  "@menu": {
+    "description": "Menu button text"
+  },
+  "escape": "ESCAPE",
+  "@escape": {
+    "description": "Escape button text"
+  },
+  "enter": "ENTER",
+  "@enter": {
+    "description": "Enter button text"
+  },
+  "space": "SPACE",
+  "@space": {
+    "description": "Space button text"
+  },
+  "backspace": "BACK SPACE",
+  "@backspace": {
+    "description": "Back Space button text"
+  },
+  "tab": "TAB",
+  "@tab": {
+    "description": "Tab button text"
+  },
+  "capsLock": "CAPS LOCK",
+  "@capsLock": {
+    "description": "Caps Lock button text"
+  },
+  "delete": "DELETE",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "upArrow": "UP",
+  "@upArrow": {
+    "description": "Up Arrow button text"
+  },
+  "leftArrow": "LEFT",
+  "@leftArrow": {
+    "description": "Left Arrow button text"
+  },
+  "downArrow": "DOWN",
+  "@downArrow": {
+    "description": "Down Arrow button text"
+  },
+  "rightArrow": "RIGHT",
+  "@rightArrow": {
+    "description": "Right Arrow button text"
+  },
+  "f1": "F1",
+  "@f1": {
+    "description": "F1 button text"
+  },
+  "f2": "F2",
+  "@f2": {
+    "description": "F2 button text"
+  },
+  "f3": "F3",
+  "@f3": {
+    "description": "F3 button text"
+  },
+  "f4": "F4",
+  "@f4": {
+    "description": "F4 button text"
+  },
+  "f5": "F5",
+  "@f5": {
+    "description": "F5 button text"
+  },
+  "f6": "F6",
+  "@f6": {
+    "description": "F6 button text"
+  },
+  "f7": "F7",
+  "@f7": {
+    "description": "F7 button text"
+  },
+  "f8": "F8",
+  "@f8": {
+    "description": "F8 button text"
+  },
+  "f9": "F9",
+  "@f9": {
+    "description": "F9 button text"
+  },
+  "f10": "F10",
+  "@f10": {
+    "description": "F10 button text"
+  },
+  "f11": "F11",
+  "@f11": {
+    "description": "F11 button text"
+  },
+  "f12": "F12",
+  "@f12": {
+    "description": "F12 button text"
+  },
+  "gui": "GUI",
+  "@gui": {
+    "description": "GUI button text"
+  },
+  "windows": "WINDOWS",
+  "@windows": {
+    "description": "Windows button text"
+  },
+  "shift": "SHIFT",
+  "@shift": {
+    "description": "Shift button text"
+  },
+  "ctrl": "CTRL",
+  "@ctrl": {
+    "description": "Ctrl button text"
+  },
+  "alt": "ALT",
+  "@alt": {
+    "description": "Alt button text"
+  },
+  "ctrlAlt": "CTRL-ALT",
+  "@ctrlAlt": {
+    "description": "Ctrl-Alt button text"
+  },
+  "ctrlShift": "CTRL-SHIFT",
+  "@ctrlShift": {
+    "description": "Ctrl-Shift button text"
+  },
+  "altShift": "ALT-SHIFT",
+  "@altShift": {
+    "description": "Alt-Shift button text"
+  },
+  "altGui": "ALT-GUI",
+  "@altGui": {
+    "description": "Alt-Gui button text"
+  },
+  "guiShift": "GUI-SHIFT",
+  "@guiShift": {
+    "description": "Gui-Shift button text"
+  },
+  "typeYourTextHere": "Type your text here.",
+  "@typeYourTextHere": {
+    "description": "Placeholder text for text inputs"
+  },
+  "usbIdChangerDescription": "VendorID an ProductID are codes used to identify your keyboard. ONLY if you are targeting a macOS, remember to insert the ID command, to change VID / PID, at the top of your code.",
+  "@usbIdChangerDescription": {
+    "description": "USB ID changer description"
+  },
+  "remarkDescription": "REM is short for Remark and adds a comment to the payload, like a title, the target OS, the functioning of a command or the author's name.",
+  "@remarkDescription": {
+    "description": "Remark section description"
+  },
+  "stringDescription": "STRING injects keystrokes, or \"types\", the given characters (a-z, 0-9, punctuation & specials).",
+  "@stringDescription": {
+    "description": "String section description"
+  },
+  "delaysDescription": "DELAY is expressed in milliseconds (1 sec. = 1000 ms.). The minimum is 100 (0.1 sec.). It increases/decreases by 100 milliseconds each click. DEFAULT_DELAY / DEFAULTDELAY add delay before every next command.",
+  "@delaysDescription": {
+    "description": "Delays section description"
+  },
+  "miscCommandsDescription": "REPEAT is used to repeat the previous command. It expects the number of additional repeats as parameter. ALTCHAR is to display single ALT+Numpad Keys (on Windows), or ALT(ALT+SHIFT) Keys (on macOS).",
+  "@miscCommandsDescription": {
+    "description": "Misc Commands section description"
+  },
+  "modifierKeysDescription": "GUI is used for both: the WINDOWS(⊔) key on Windows, and the CMD(⌘) key on macOS. (Targeting Windows, you can use WINDOWS key or GUI key to get the same result). CONTROL and CTRL as well. If you need to use more than one \"modifier key\" at once, use the preloaded \"Keys Combos\", which you'll find just below these Modifier keys.",
+  "@modifierKeysDescription": {
+    "description": "Modifier Keys section description"
+  },
+  "comboKeysDescription": "ONLY on Windows: CTRL-ALT is the same as to type ALTgr (ALT Graphic) and you can use both ALT-WINDOWS or ALT-GUI, and WINDOWS-SHIFT or GUI-SHIFT to get the exact same result.",
+  "@comboKeysDescription": {
+    "description": "Combo Keys section description"
+  },
+  "arrowKeysDescription": "UP is the same as UPARROW. DOWN is the same ad DOWNARROW. LEFT is the same as LEFTARROW. RIGHT is the same as RIGHTARROW.",
+  "@arrowKeysDescription": {
+    "description": "Arrow Keys section description"
+  },
+  "othersControlKeysDescription": "The magic SysRq key is a key combination understood by the Linux kernel, which allows the user to perform various low-level commands regardless of the system's state. It is often used to recover from freezes, or to reboot a computer without corrupting the filesystem.",
+  "@othersControlKeysDescription": {
+    "description": "Others Control Keys section description"
+  },
+  "sysrqPlaceholder": "SysRq command",
+  "@sysrqPlaceholder": {
+    "description": "SysRq input placeholder"
+  },
+  "holdReleasePlaceholder": "Key to hold/release",
+  "@holdReleasePlaceholder": {
+    "description": "Hold/Release input placeholder"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Settings dialog title"
+  },
+  "openSourceLicenses": "Open Source Licenses",
+  "@openSourceLicenses": {
+    "description": "Open source licenses button text"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+  "fileName": "File Name",
+  "@fileName": {
+    "description": "File Name label"
+  },
+  "fileNamePlaceholder": "Enter filename",
+  "@fileNamePlaceholder": {
+    "description": "File Name placeholder"
+  },
+  "fileType": "File Type",
+  "@fileType": {
+    "description": "File Type label"
+  },
+  "useCustomDirectory": "Use custom directory",
+  "@useCustomDirectory": {
+    "description": "Use Custom Directory label"
+  },
+  "directoryPath": "Directory path",
+  "@directoryPath": {
+    "description": "Directory Path label"
+  },
+  "preview": "Preview",
+  "@preview": {
+    "description": "Preview label"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error dialog title"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "noContentToSave": "No content to save",
+  "@noContentToSave": {
+    "description": "No content to save message"
+  },
+  "fileSavedSuccessfully": "File saved successfully",
+  "@fileSavedSuccessfully": {
+    "description": "File saved successfully message"
+  },
+  "downloadFolder": "Download folder",
+  "@downloadFolder": {
+    "description": "Download folder message"
+  }
+}
